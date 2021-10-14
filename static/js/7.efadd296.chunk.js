@@ -1,0 +1,2 @@
+(this["webpackJsonpreactjs-guide"]=this["webpackJsonpreactjs-guide"]||[]).push([[7],{598:function(e,t,c){"use strict";c.r(t);var s=c(0),n=c(73),a=c(341),i=c(342),r=c(70),u=c(23),j=c(7);t.default=function(){var e=Object(n.c)();return Object(s.useEffect)((function(){e(u.h),document.title="Dashboard"}),[e]),Object(j.jsx)(a.a,{children:Object(j.jsx)(i.a,{span:24,style:{marginTop:10},children:Object(j.jsx)(r.a,{description:!1})})})}}}]);
+//# sourceMappingURL=7.efadd296.chunk.js.map
